@@ -1,0 +1,13 @@
+# database
+db.sqlite3
+
+#migrations
+app/migrations
+/app/migrations
+
+# pycache
+app/__pycache__
+SignalDemo/__pycache__
+
+/app/__pycache__
+/SignalDemo/__pycache__

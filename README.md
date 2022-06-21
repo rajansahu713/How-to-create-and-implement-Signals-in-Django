@@ -14,7 +14,17 @@ python manage.py makemigrations
 python manage.py migrate
 ```
 
-* Now everything is properly setup, run the using below command
+* Now everything is properly setup, run the below command
 ```python 
 python manage.py runserver
 ```
+After run the above command you will see as below
+```
+System check identified no issues (0 silenced).
+June 21, 2022 - 23:54:48
+Django version 4.0.2, using settings 'SignalDemo.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+```
+Copy the Url and paste in any browser.
+

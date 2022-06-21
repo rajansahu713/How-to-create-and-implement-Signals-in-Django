@@ -3,13 +3,13 @@
 # Project setup
 
 * Please Install all the dependencies.
-* After that do the migrations
+* After that do the migrations for that run below mentions command
 
-    * Step 1
+1. First
 ```python
 python manage.py makemigrations 
 ```
-    * Step 2
+2. Second
 ```
 python manage.py migrate
 ```
